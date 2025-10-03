@@ -17,7 +17,7 @@ public class Vehicle {
         this.price = price;
     }
 
-    //getters and setters
+    //Getters and Setters
     public long getVehicleId() {
         return vehicleId;
     }
